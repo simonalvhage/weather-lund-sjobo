@@ -1,1 +1,2 @@
-
+timestamp_utc,local_time,timezone,location_id,lat,lon,provider,temp_c,dewpoint_c,rh_pct,pressure_hpa,wind_speed_ms,wind_gust_ms,wind_dir_deg,precip_mm_1h,precip_mm_24h,cloud_cover_pct,weather_code,visibility_m,solar_rad_wm2
+2025-08-25T10:00:00.000Z,2025-08-25T12:00:00,Europe/Stockholm,lund,55.7047,13.1910,open-meteo,19,7.7,48,1013.2,4.6,10.1,275,0,0,22,1,67500,559
