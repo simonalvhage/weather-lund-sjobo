@@ -1,2 +1,2 @@
 timestamp_utc,local_time,timezone,location_id,lat,lon,provider,temp_c,dewpoint_c,rh_pct,pressure_hpa,wind_speed_ms,wind_gust_ms,wind_dir_deg,precip_mm_1h,precip_mm_24h,cloud_cover_pct,weather_code,visibility_m,solar_rad_wm2
-2025-08-27T10:00:00.000Z,2025-08-27T12:00:00,Europe/Stockholm,sjobo,55.6333,13.7167,open-meteo,19,11.6,62,1009,3.8,7.7,124,0,0,99,3,49160,0
+2025-08-28T10:00:00.000Z,2025-08-28T12:00:00,Europe/Stockholm,sjobo,55.6333,13.7167,open-meteo,15.1,13.9,93,1007.2,1,2.7,160,0,1.4,67,2,3660,107
