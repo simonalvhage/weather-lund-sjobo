@@ -1,0 +1,70 @@
+{
+  "latitude": 55.75,
+  "longitude": 13.75,
+  "generationtime_ms": 1748.4982013702393,
+  "utc_offset_seconds": 7200,
+  "timezone": "Europe/Stockholm",
+  "timezone_abbreviation": "GMT+2",
+  "elevation": 50,
+  "current_units": {
+    "time": "iso8601",
+    "interval": "seconds",
+    "temperature_2m": "°C",
+    "relative_humidity_2m": "%",
+    "dew_point_2m": "°C",
+    "pressure_msl": "hPa",
+    "wind_speed_10m": "km/h",
+    "wind_gusts_10m": "km/h",
+    "wind_direction_10m": "°",
+    "precipitation": "mm",
+    "cloud_cover": "%",
+    "visibility": "m",
+    "shortwave_radiation": "W/m²",
+    "weather_code": "wmo code"
+  },
+  "current": {
+    "time": "2026-07-07T12:00",
+    "interval": 900,
+    "temperature_2m": 15.8,
+    "relative_humidity_2m": 95,
+    "dew_point_2m": 15,
+    "pressure_msl": 1000.4,
+    "wind_speed_10m": 18.4,
+    "wind_gusts_10m": 38.2,
+    "wind_direction_10m": 260,
+    "precipitation": 0,
+    "cloud_cover": 100,
+    "visibility": 3520,
+    "shortwave_radiation": 44,
+    "weather_code": 3
+  },
+  "daily_units": {
+    "time": "iso8601",
+    "precipitation_sum": "mm",
+    "wind_speed_10m_max": "km/h",
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C"
+  },
+  "daily": {
+    "time": [
+      "2026-07-06",
+      "2026-07-07"
+    ],
+    "precipitation_sum": [
+      4.4,
+      5.8
+    ],
+    "wind_speed_10m_max": [
+      19.4,
+      34.9
+    ],
+    "temperature_2m_max": [
+      16,
+      17
+    ],
+    "temperature_2m_min": [
+      11.9,
+      13.5
+    ]
+  }
+}
